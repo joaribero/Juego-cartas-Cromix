@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\juego RIBERO martinez\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Usuario\Desktop\juego RIBERO martinez\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Usuario\Desktop\juego RIBERO martinez\UnitTestProject1\bin\Debug\JuegoCartas.dll
+C:\Users\Usuario\Desktop\juego RIBERO martinez\UnitTestProject1\bin\Debug\JuegoCartas.pdb
+C:\Users\Usuario\Desktop\juego RIBERO martinez\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\juego RIBERO martinez\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Usuario\Desktop\juego RIBERO martinez\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

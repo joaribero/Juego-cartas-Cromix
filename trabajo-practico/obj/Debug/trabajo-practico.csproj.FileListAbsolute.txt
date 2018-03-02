@@ -1,0 +1,232 @@
+D:\juego schneidder martinez\trabajo-practico\bin\trabajo-practico.dll.config
+D:\juego schneidder martinez\trabajo-practico\bin\trabajo-practico.dll
+D:\juego schneidder martinez\trabajo-practico\bin\trabajo-practico.pdb
+D:\juego schneidder martinez\trabajo-practico\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\juego schneidder martinez\trabajo-practico\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\juego schneidder martinez\trabajo-practico\bin\Microsoft.Owin.dll
+D:\juego schneidder martinez\trabajo-practico\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\juego schneidder martinez\trabajo-practico\bin\Microsoft.Owin.Security.dll
+D:\juego schneidder martinez\trabajo-practico\bin\Newtonsoft.Json.dll
+D:\juego schneidder martinez\trabajo-practico\bin\Owin.dll
+D:\juego schneidder martinez\trabajo-practico\bin\System.Web.Helpers.dll
+D:\juego schneidder martinez\trabajo-practico\bin\System.Web.Mvc.dll
+D:\juego schneidder martinez\trabajo-practico\bin\System.Web.Razor.dll
+D:\juego schneidder martinez\trabajo-practico\bin\System.Web.Webpages.Deployment.dll
+D:\juego schneidder martinez\trabajo-practico\bin\System.Web.Webpages.dll
+D:\juego schneidder martinez\trabajo-practico\bin\System.Web.Webpages.Razor.dll
+D:\juego schneidder martinez\trabajo-practico\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\juego schneidder martinez\trabajo-practico\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\juego schneidder martinez\trabajo-practico\bin\Microsoft.Owin.xml
+D:\juego schneidder martinez\trabajo-practico\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\juego schneidder martinez\trabajo-practico\bin\Microsoft.Owin.Security.xml
+D:\juego schneidder martinez\trabajo-practico\bin\Newtonsoft.Json.xml
+D:\juego schneidder martinez\trabajo-practico\bin\System.Web.Razor.xml
+D:\juego schneidder martinez\trabajo-practico\bin\System.Web.Webpages.xml
+D:\juego schneidder martinez\trabajo-practico\bin\System.Web.Webpages.Deployment.xml
+D:\juego schneidder martinez\trabajo-practico\bin\System.Web.Webpages.Razor.xml
+D:\juego schneidder martinez\trabajo-practico\bin\System.Web.Helpers.xml
+D:\juego schneidder martinez\trabajo-practico\bin\System.Web.Mvc.xml
+D:\juego schneidder martinez\trabajo-practico\bin\es\System.Web.Razor.resources.dll
+D:\juego schneidder martinez\trabajo-practico\bin\es\System.Web.Webpages.resources.dll
+D:\juego schneidder martinez\trabajo-practico\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\juego schneidder martinez\trabajo-practico\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\juego schneidder martinez\trabajo-practico\bin\es\System.Web.Helpers.resources.dll
+D:\juego schneidder martinez\trabajo-practico\bin\es\System.Web.Mvc.resources.dll
+D:\juego schneidder martinez\trabajo-practico\obj\Debug\trabajo-practico.csprojResolveAssemblyReference.cache
+D:\juego schneidder martinez\trabajo-practico\obj\Debug\trabajo-practico.dll
+D:\juego schneidder martinez\trabajo-practico\obj\Debug\trabajo-practico.pdb
+N:\juego schneidder martinez\trabajo-practico\bin\trabajo-practico.dll.config
+N:\juego schneidder martinez\trabajo-practico\bin\trabajo-practico.dll
+N:\juego schneidder martinez\trabajo-practico\bin\trabajo-practico.pdb
+N:\juego schneidder martinez\trabajo-practico\bin\Microsoft.AspNet.SignalR.Core.dll
+N:\juego schneidder martinez\trabajo-practico\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+N:\juego schneidder martinez\trabajo-practico\bin\Microsoft.Owin.dll
+N:\juego schneidder martinez\trabajo-practico\bin\Microsoft.Owin.Host.SystemWeb.dll
+N:\juego schneidder martinez\trabajo-practico\bin\Microsoft.Owin.Security.dll
+N:\juego schneidder martinez\trabajo-practico\bin\Microsoft.Web.Infrastructure.dll
+N:\juego schneidder martinez\trabajo-practico\bin\Newtonsoft.Json.dll
+N:\juego schneidder martinez\trabajo-practico\bin\Owin.dll
+N:\juego schneidder martinez\trabajo-practico\bin\System.Web.Helpers.dll
+N:\juego schneidder martinez\trabajo-practico\bin\System.Web.Mvc.dll
+N:\juego schneidder martinez\trabajo-practico\bin\System.Web.Razor.dll
+N:\juego schneidder martinez\trabajo-practico\bin\System.Web.Webpages.Deployment.dll
+N:\juego schneidder martinez\trabajo-practico\bin\System.Web.Webpages.dll
+N:\juego schneidder martinez\trabajo-practico\bin\System.Web.Webpages.Razor.dll
+N:\juego schneidder martinez\trabajo-practico\bin\Microsoft.AspNet.SignalR.Core.xml
+N:\juego schneidder martinez\trabajo-practico\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+N:\juego schneidder martinez\trabajo-practico\bin\Microsoft.Owin.xml
+N:\juego schneidder martinez\trabajo-practico\bin\Microsoft.Owin.Host.SystemWeb.xml
+N:\juego schneidder martinez\trabajo-practico\bin\Microsoft.Owin.Security.xml
+N:\juego schneidder martinez\trabajo-practico\bin\Newtonsoft.Json.xml
+N:\juego schneidder martinez\trabajo-practico\bin\System.Web.Razor.xml
+N:\juego schneidder martinez\trabajo-practico\bin\System.Web.Webpages.xml
+N:\juego schneidder martinez\trabajo-practico\bin\System.Web.Webpages.Deployment.xml
+N:\juego schneidder martinez\trabajo-practico\bin\System.Web.Webpages.Razor.xml
+N:\juego schneidder martinez\trabajo-practico\bin\System.Web.Helpers.xml
+N:\juego schneidder martinez\trabajo-practico\bin\System.Web.Mvc.xml
+N:\juego schneidder martinez\trabajo-practico\bin\es\System.Web.Razor.resources.dll
+N:\juego schneidder martinez\trabajo-practico\bin\es\System.Web.Webpages.resources.dll
+N:\juego schneidder martinez\trabajo-practico\bin\es\System.Web.Webpages.Deployment.resources.dll
+N:\juego schneidder martinez\trabajo-practico\bin\es\System.Web.Webpages.Razor.resources.dll
+N:\juego schneidder martinez\trabajo-practico\bin\es\System.Web.Helpers.resources.dll
+N:\juego schneidder martinez\trabajo-practico\bin\es\System.Web.Mvc.resources.dll
+N:\juego schneidder martinez\trabajo-practico\obj\Debug\trabajo-practico.csprojResolveAssemblyReference.cache
+N:\juego schneidder martinez\trabajo-practico\obj\Debug\trabajo-practico.dll
+N:\juego schneidder martinez\trabajo-practico\obj\Debug\trabajo-practico.pdb
+G:\juego RIBERO martinez\trabajo-practico\bin\trabajo-practico.dll.config
+G:\juego RIBERO martinez\trabajo-practico\bin\trabajo-practico.dll
+G:\juego RIBERO martinez\trabajo-practico\bin\trabajo-practico.pdb
+G:\juego RIBERO martinez\trabajo-practico\bin\Microsoft.AspNet.SignalR.Core.dll
+G:\juego RIBERO martinez\trabajo-practico\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+G:\juego RIBERO martinez\trabajo-practico\bin\Microsoft.Owin.dll
+G:\juego RIBERO martinez\trabajo-practico\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\juego RIBERO martinez\trabajo-practico\bin\Microsoft.Owin.Security.dll
+G:\juego RIBERO martinez\trabajo-practico\bin\Newtonsoft.Json.dll
+G:\juego RIBERO martinez\trabajo-practico\bin\Owin.dll
+G:\juego RIBERO martinez\trabajo-practico\bin\System.Web.Helpers.dll
+G:\juego RIBERO martinez\trabajo-practico\bin\System.Web.Mvc.dll
+G:\juego RIBERO martinez\trabajo-practico\bin\System.Web.Razor.dll
+G:\juego RIBERO martinez\trabajo-practico\bin\System.Web.Webpages.Deployment.dll
+G:\juego RIBERO martinez\trabajo-practico\bin\System.Web.Webpages.dll
+G:\juego RIBERO martinez\trabajo-practico\bin\System.Web.Webpages.Razor.dll
+G:\juego RIBERO martinez\trabajo-practico\bin\Microsoft.AspNet.SignalR.Core.xml
+G:\juego RIBERO martinez\trabajo-practico\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+G:\juego RIBERO martinez\trabajo-practico\bin\Microsoft.Owin.xml
+G:\juego RIBERO martinez\trabajo-practico\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\juego RIBERO martinez\trabajo-practico\bin\Microsoft.Owin.Security.xml
+G:\juego RIBERO martinez\trabajo-practico\bin\Newtonsoft.Json.xml
+G:\juego RIBERO martinez\trabajo-practico\bin\System.Web.Razor.xml
+G:\juego RIBERO martinez\trabajo-practico\bin\System.Web.Webpages.xml
+G:\juego RIBERO martinez\trabajo-practico\bin\System.Web.Webpages.Deployment.xml
+G:\juego RIBERO martinez\trabajo-practico\bin\System.Web.Webpages.Razor.xml
+G:\juego RIBERO martinez\trabajo-practico\bin\System.Web.Helpers.xml
+G:\juego RIBERO martinez\trabajo-practico\bin\System.Web.Mvc.xml
+G:\juego RIBERO martinez\trabajo-practico\bin\es\System.Web.Razor.resources.dll
+G:\juego RIBERO martinez\trabajo-practico\bin\es\System.Web.Webpages.resources.dll
+G:\juego RIBERO martinez\trabajo-practico\bin\es\System.Web.Webpages.Deployment.resources.dll
+G:\juego RIBERO martinez\trabajo-practico\bin\es\System.Web.Webpages.Razor.resources.dll
+G:\juego RIBERO martinez\trabajo-practico\bin\es\System.Web.Helpers.resources.dll
+G:\juego RIBERO martinez\trabajo-practico\bin\es\System.Web.Mvc.resources.dll
+G:\juego RIBERO martinez\trabajo-practico\obj\Debug\trabajo-practico.csprojResolveAssemblyReference.cache
+G:\juego RIBERO martinez\trabajo-practico\obj\Debug\trabajo-practico.dll
+G:\juego RIBERO martinez\trabajo-practico\obj\Debug\trabajo-practico.pdb
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\trabajo-practico.dll.config
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\trabajo-practico.dll
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\trabajo-practico.pdb
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Microsoft.Owin.dll
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Microsoft.Owin.Security.dll
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Newtonsoft.Json.dll
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Owin.dll
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\System.Web.Helpers.dll
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\System.Web.Mvc.dll
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\System.Web.Razor.dll
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\System.Web.Webpages.dll
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\System.Web.Webpages.Razor.dll
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Microsoft.Owin.xml
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Microsoft.Owin.Security.xml
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Newtonsoft.Json.xml
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\System.Web.Razor.xml
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\System.Web.Webpages.xml
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\System.Web.Webpages.Razor.xml
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\System.Web.Helpers.xml
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\System.Web.Mvc.xml
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\es\System.Web.Razor.resources.dll
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\obj\Debug\trabajo-practico.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\obj\Debug\trabajo-practico.dll
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\obj\Debug\trabajo-practico.pdb
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\JuegoCartas.dll
+C:\Users\Nico\Desktop\nico facu\Tp Programacion C#\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\JuegoCartas.pdb
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\trabajo-practico.dll.config
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\trabajo-practico.dll
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\trabajo-practico.pdb
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\JuegoCartas.dll
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Microsoft.AspNet.SignalR.Core.dll
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Microsoft.Owin.dll
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Microsoft.Owin.Security.dll
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Microsoft.Web.Infrastructure.dll
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Newtonsoft.Json.dll
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Owin.dll
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\System.Web.Helpers.dll
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\System.Web.Mvc.dll
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\System.Web.Razor.dll
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\System.Web.Webpages.Deployment.dll
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\System.Web.Webpages.dll
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\System.Web.Webpages.Razor.dll
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\JuegoCartas.pdb
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Microsoft.AspNet.SignalR.Core.xml
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Microsoft.Owin.xml
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Microsoft.Owin.Security.xml
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\Newtonsoft.Json.xml
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\System.Web.Razor.xml
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\System.Web.Webpages.xml
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\System.Web.Webpages.Deployment.xml
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\System.Web.Webpages.Razor.xml
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\System.Web.Helpers.xml
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\System.Web.Mvc.xml
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\es\System.Web.Razor.resources.dll
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\es\System.Web.Webpages.resources.dll
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\es\System.Web.Webpages.Deployment.resources.dll
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\es\System.Web.Webpages.Razor.resources.dll
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\es\System.Web.Helpers.resources.dll
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\bin\es\System.Web.Mvc.resources.dll
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\obj\Debug\trabajo-practico.csprojResolveAssemblyReference.cache
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\obj\Debug\trabajo-practico.dll
+H:\juego RIBERO martinez\TP Cartas\juego RIBERO martinez\trabajo-practico\obj\Debug\trabajo-practico.pdb
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\trabajo-practico.dll.config
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\trabajo-practico.dll
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\trabajo-practico.pdb
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\JuegoCartas.dll
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\Microsoft.Owin.dll
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\Microsoft.Owin.Security.dll
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\Owin.dll
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\System.Web.Razor.dll
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\System.Web.Webpages.dll
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\System.Web.Webpages.Razor.dll
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\JuegoCartas.pdb
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\Microsoft.Owin.xml
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\Microsoft.Owin.Security.xml
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\System.Web.Razor.xml
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\System.Web.Webpages.xml
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\System.Web.Webpages.Razor.xml
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\es\System.Web.Razor.resources.dll
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\obj\Debug\trabajo-practico.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\obj\Debug\trabajo-practico.dll
+C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\obj\Debug\trabajo-practico.pdb
