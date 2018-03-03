@@ -230,3 +230,44 @@ C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\bin\es\System.We
 C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\obj\Debug\trabajo-practico.csprojResolveAssemblyReference.cache
 C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\obj\Debug\trabajo-practico.dll
 C:\Users\Usuario\Desktop\juego RIBERO martinez\trabajo-practico\obj\Debug\trabajo-practico.pdb
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\trabajo-practico.dll.config
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\trabajo-practico.dll
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\trabajo-practico.pdb
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\JuegoCartas.dll
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\Microsoft.Owin.dll
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\Microsoft.Owin.Security.dll
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\Owin.dll
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\System.Web.Razor.dll
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\System.Web.Webpages.dll
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\System.Web.Webpages.Razor.dll
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\JuegoCartas.pdb
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\Microsoft.Owin.xml
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\Microsoft.Owin.Security.xml
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\System.Web.Razor.xml
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\System.Web.Webpages.xml
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\System.Web.Webpages.Razor.xml
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\es\System.Web.Razor.resources.dll
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\obj\Debug\trabajo-practico.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\obj\Debug\trabajo-practico.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\obj\Debug\trabajo-practico.dll
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\trabajo-practico\obj\Debug\trabajo-practico.pdb

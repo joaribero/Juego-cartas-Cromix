@@ -16,3 +16,9 @@ C:\Users\Usuario\Desktop\juego RIBERO martinez\JuegoCartas\JuegoCartas\bin\Debug
 C:\Users\Usuario\Desktop\juego RIBERO martinez\JuegoCartas\JuegoCartas\obj\Debug\JuegoCartas.Core.csprojResolveAssemblyReference.cache
 C:\Users\Usuario\Desktop\juego RIBERO martinez\JuegoCartas\JuegoCartas\obj\Debug\JuegoCartas.dll
 C:\Users\Usuario\Desktop\juego RIBERO martinez\JuegoCartas\JuegoCartas\obj\Debug\JuegoCartas.pdb
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\JuegoCartas\JuegoCartas\bin\Debug\JuegoCartas.dll
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\JuegoCartas\JuegoCartas\bin\Debug\JuegoCartas.pdb
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\JuegoCartas\JuegoCartas\obj\Debug\JuegoCartas.Core.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\JuegoCartas\JuegoCartas\obj\Debug\JuegoCartas.Core.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\JuegoCartas\JuegoCartas\obj\Debug\JuegoCartas.dll
+C:\Users\Usuario\Desktop\Proyect MVC\Juego-cartas-Cromix\JuegoCartas\JuegoCartas\obj\Debug\JuegoCartas.pdb
